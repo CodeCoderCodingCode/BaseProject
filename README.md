@@ -1,0 +1,1 @@
+it is just the bare bones base for THREE.js Projects I use
